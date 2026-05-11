@@ -28,6 +28,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Alejandro-Shadow&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=Alejandro-Shadow&theme=tokyonight&rank=B,C,A,S,SSS&column=3&no-bg=true" height="150" alt="trophy graph" />
 </div>
 
