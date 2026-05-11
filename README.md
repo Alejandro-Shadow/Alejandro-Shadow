@@ -26,22 +26,21 @@
 
 ### 📊 Estadísticas y Logros
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejandro-Shadow&show_icons=true&theme=tokyonight&hide_border=false" alt="Stats de Alejandro" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-Shadow&layout=compact&theme=tokyonight&hide_border=false" alt="Lenguajes de Alejandro" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alejandro-Shadow&theme=tokyonight&hide_border=false" alt="Racha de contribuciones" />
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Alejandro-Shadow&theme=tokyonight&rank=B,C,A,S,SSS&column=3&no-bg=true" alt="Trofeos profesionales" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Alejandro-Shadow/Alejandro-Shadow/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Alejandro-Shadow/Alejandro-Shadow/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Alejandro-Shadow&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Alejandro-Shadow&theme=tokyonight&rank=B,C,A,S,SSS&column=3&no-bg=true" height="150" alt="trophy graph" />
+</div>
 
 ---
 
 ### 🕹️ Actividad de Contribuciones
 
 <p align="center">
-  <img src="https://github-readme-pacman.vercel.app/api?username=Alejandro-Shadow&theme=dark_teal" alt="Gráfico de Pacman funcionando" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejandro-Shadow/Alejandro-Shadow/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejandro-Shadow/Alejandro-Shadow/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alejandro-Shadow/Alejandro-Shadow/pacman-output/pacman-contribution-graph.svg">
+  </picture>
 </p>
