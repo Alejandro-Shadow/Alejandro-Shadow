@@ -27,9 +27,9 @@
 ### 📊 Estadísticas y Logros
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejandro-Shadow&theme=tokyonight&show_icons=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-Shadow&theme=tokyonight&layout=compact" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Alejandro-Shadow&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alejandro-Shadow&theme=tokyonight&show_icons=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-Shadow&theme=tokyonight&layout=compact" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=Alejandro-Shadow&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   <img src="https://github-profile-trophy.vercel.app/?username=Alejandro-Shadow&theme=tokyonight&rank=B,C,A,S,SSS&column=3&no-bg=true" height="150" alt="trophy graph" />
 </div>
 
@@ -41,6 +41,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alejandro-Shadow/Alejandro-Shadow/pacman-output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alejandro-Shadow/Alejandro-Shadow/pacman-output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Alejandro-Shadow/Alejandro-Shadow/pacman-output/pacman-contribution-graph.svg">
+    <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Alejandro-Shadow/Alejandro-Shadow/pacman-output/pacman-contribution-graph.svg">
   </picture>
 </p>
