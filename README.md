@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil-aqui" target="_blank">
+  <a href="https://www.linkedin.com/in/TU_USUARIO_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alejandro.ibanezcapel@gmail.com">
